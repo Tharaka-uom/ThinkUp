@@ -843,7 +843,7 @@ class ThinkUpInsightUnitTestCase extends ThinkUpUnitTestCase {
             "avatar" => "http://pbs.twimg.com/profile_images/418628800293793792/FO4GD-Gj_normal.jpeg",
             "location" => "San Francisco",
             "description" => "Sneckdown (noun): Accumulation of snow on the street that reveals space that cars ".
-                "don’t use. via @backspace http://t.co/VErShzyTLd",
+                "don't use. via @backspace http://t.co/VErShzyTLd",
             "url" => "http://t.co/wgppL6J8lV",
             "is_verified" => 0,
             "is_protected" => 0,
